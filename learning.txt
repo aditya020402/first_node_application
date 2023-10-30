@@ -1,0 +1,37 @@
+node is a javascript runtime enviroment 
+nodemon is used to run the index.js file indefinitly . We don't have to 
+save the file again again and again and it will keep on running the file 
+as soon as we save it 
+creating server using node is shown 
+module in node are of three type 
+
+file base module
+third party module
+built in module
+
+methods that can be used 
+
+get when we want to get (read) something
+post when want to create data 
+put for updating the data 
+delete - > when we want to delete something
+
+
+express is a node js framework that is used to remove the line of code
+that we are writting to create the server and multiple route that we are creating in our projects
+
+ejs -> embedded javascript template
+
+
+method in a form tells how the data will be send 
+like get,post,put,delete etc 
+while action in the form where the data should be sent once the form gets submited
+so in the action we are specifing the default route if nothing is written or the route where we want the data to go 
+once we submit the form.
+The form-data can be sent as URL variables (with method="get" ) or as HTTP post transaction (with method="post" ).
+
+
+
+while doing inspect in the application tab we can see the data 
+that is begin stored in the local storage session and cookies
+
